@@ -1,0 +1,4 @@
+﻿  tehtava01.cpp
+C:\Users\lvleh\Documents\C++\Tehtävät 9\tehtava01\tehtava01\tehtava01.cpp(33,12): warning C4477: 'printf' : format string '%lu' requires an argument of type 'unsigned long', but variadic argument 1 has type 'size_t'
+C:\Users\lvleh\Documents\C++\Tehtävät 9\tehtava01\tehtava01\tehtava01.cpp(33,12): message : consider using '%zu' in the format string
+  tehtava01.vcxproj -> C:\Users\lvleh\Documents\C++\Tehtävät 9\tehtava01\x64\Debug\tehtava01.exe
